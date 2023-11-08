@@ -1,0 +1,50 @@
+body {
+    user-select: none;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.bingo_btn {
+    font-size: 10px;
+}
+
+.bingo_btn, .free_bingo_btn {
+    font-size: 10px;
+    width: 90px;
+    height: 90px;
+    border: 0;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.bingo_btn:hover {
+    background-color: #dedcdc;
+}
+
+.free_bingo_btn {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.submit_btn {
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 100%;
+    margin-bottom: 10px;
+    border: 0;
+    height: 40px;
+}
+
+.submit_btn:hover {
+    background-color: rgba(255, 0, 0, 0.7);
+}
