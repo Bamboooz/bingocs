@@ -1,9 +1,11 @@
 const submitButton = document.querySelector(".submit_btn");
 const bingoButton = document.querySelectorAll(".bingo_btn");
+const rulesBox = document.querySelector(".rules");
 let state = 0;
 
 submitButton.addEventListener("click", function() {
     submitButton.style.display = "none";
+    rulesBox.style.display = "none";
     state = 1;
 });
 
