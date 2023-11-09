@@ -18,7 +18,8 @@ const bingoElementsArray = ["bambino piszczy jak baba", "pawla wypierdala z gry"
     "krzysiu zwiększa gaina na maxa", "Przeciwnik wychodzi bo przegrywa", "Random teammate umie angielski",
     "Cała drużyna ma wylew", "ktos poza pawlem narzeka na lagi", "bitwa o miejsce w tabeli",
     "ktoś wspomina skibidi toilet", "mati nie umie w angielski", "krzychu scopuje z 0.5 metra", "granat pago zabija kogoś",
-    "randomowy n word", "ktos krzyczy kys", "leci GYATT", "olo ragequit", "prezciwnicy to totalne spoceńce"];
+    "randomowy n word", "ktos krzyczy kys", "leci GYATT", "olo ragequit", "prezciwnicy to totalne spoceńce", "zax total wylew",
+    "zax drze pizde na brata", "zax kaszel palacza"];
 
 let usedBingoElementsArray = [];
 
