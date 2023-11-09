@@ -5,6 +5,19 @@ body {
     font-family: 'Inter';
 }
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 0;
+}
+
+p:last-child {
+    margin-bottom: 20px;
+}
+
 .app {
     margin: 0;
     padding: 0;
